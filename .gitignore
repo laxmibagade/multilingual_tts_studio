@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+data/history.json
+output/audio/*
+output/subtitles/*
+!output/audio/.gitkeep
+!output/subtitles/.gitkeep
